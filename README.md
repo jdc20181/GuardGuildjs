@@ -205,7 +205,7 @@ npm publish --access public
 - User WL Support
 - Database Support
 - API/Oauth etc.
-
+- Safety checks for Owner bypass
 # License
 
 MIT License. 
