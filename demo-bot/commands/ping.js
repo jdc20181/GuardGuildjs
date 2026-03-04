@@ -1,5 +1,5 @@
 import { SlashCommandBuilder } from 'discord.js';
-import { blockIfWrongGuild } from '../../guardGuild.js';
+import { blockIfWrongGuild } from '@jdc20181/guardguildjs';
 
 export const data = new SlashCommandBuilder()
   .setName('ping')

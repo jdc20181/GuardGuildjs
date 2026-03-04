@@ -1,5 +1,8 @@
 
 # GuardGuildjs
+> ⚠️ Quick Disclaimer:
+> AI Was used in the development of this package to support ESM and TypeScript. 
+> While this is a very basic package, it takes the work out for you in an easy to understand API style adoption. 
 
 GuardGuildjs is a simple utility for Discord bots. It helps you restrict commands to specific servers (guilds) or block them in DMs, so your bot only responds where you want it to.
 
@@ -197,4 +200,12 @@ npm run pack:check
 npm publish --access public
 ```
 
+# To Do
 
+- User WL Support
+- Database Support
+- API/Oauth etc.
+
+# License
+
+MIT License. 
