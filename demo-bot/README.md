@@ -1,4 +1,6 @@
 # Demo Bot
+> AI Was used in the development of this tutorial Bot demonstration. 
+> Provided AS IS for a courtesy
 
 Basic Discord.js demo bot using `guardguildjs` with one `/ping` command.
 
