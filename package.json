@@ -1,6 +1,6 @@
 {
   "name": "@jdc20181/guardguildjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight Discord interaction guild guard helper.",
   "homepage": "https://github.com/jdc20181/GuardGuildjs#readme",
   "repository": {
