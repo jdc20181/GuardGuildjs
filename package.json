@@ -1,0 +1,47 @@
+{
+  "name": "@jdc20181/guardguildjs",
+  "version": "0.1.0",
+  "description": "Lightweight Discord interaction guild guard helper.",
+  "homepage": "https://github.com/jdc20181/GuardGuildjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdc20181/GuardGuildjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jdc20181/GuardGuildjs/issues"
+  },
+  "main": "guardGuild.cjs",
+  "types": "guardGuild.d.ts",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./guardGuild.js",
+      "require": "./guardGuild.cjs",
+      "default": "./guardGuild.js"
+    }
+  },
+  "files": [
+    "guardGuild.js",
+    "guardGuild.cjs",
+    "guardGuild.d.ts",
+    "README.md",
+    "TUTORIAL.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "pack:check": "npm pack --dry-run"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "guard",
+    "guild",
+    "permissions"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
